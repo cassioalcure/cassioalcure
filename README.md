@@ -1,4 +1,4 @@
-### Olá, Eu sou o Cássio!
+### Olá, eu sou o Cássio!
 
 - 📚Hoje eu estou cursando Sistemas de Informação na UFES.
 - 💻Estou no momento estudando a linguagem C.
