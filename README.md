@@ -4,12 +4,17 @@
 - 💻Estou no momento estudando a linguagem C.
 
 
+
 <div align="center">
   <a href="https://github.com/cassioalcure">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioalcure&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioalcure&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
+<img align="center" alt="Czao" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+## 
 
 ### Redes Sociais:
 
@@ -24,7 +29,7 @@
  	<a href="https://www.twitch.tv/cassioquefazer" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/aleatorta/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-
+##
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
