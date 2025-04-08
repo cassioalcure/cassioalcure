@@ -1,7 +1,7 @@
 ### Olá, eu sou o Cássio!
 
 - 📚Hoje eu estou cursando Sistemas de Informação na UFES.
-- 💻Estou no momento estudando Estrutura de Dados II e Programação II (Java).
+- 💻Estou no momento estudando Linguagem Java e Python.
 
 
 
